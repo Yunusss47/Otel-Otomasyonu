@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\Otell\Otell\bin\Debug\Otell.exe.config
+C:\Users\hasan\source\repos\Otell\Otell\bin\Debug\Otell.exe
+C:\Users\hasan\source\repos\Otell\Otell\bin\Debug\Otell.pdb
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.Properties.Resources.resources
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.exe
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.pdb
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.FrmYeniMusteri.resources
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.FrmAdminGiris.resources
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.FrmAnaForm.resources
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.FrmOdalar.resources
+C:\Users\hasan\source\repos\Otell\Otell\obj\Debug\Otell.FrmMusteriler.resources

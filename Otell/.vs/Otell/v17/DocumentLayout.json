@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|c:\\users\\hasan\\onedrive\\masa\u00FCst\u00FC\\otell\\otell\\frmadmingiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmadmingiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|c:\\users\\hasan\\onedrive\\masa\u00FCst\u00FC\\otell\\otell\\frmmusteriler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmmusteriler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|c:\\users\\hasan\\onedrive\\masa\u00FCst\u00FC\\otell\\otell\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|c:\\users\\hasan\\onedrive\\masa\u00FCst\u00FC\\otell\\otell\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmodalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmmusteriler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\otell\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FC2697-EFD5-4210-9B5E-D0C80D7809EE}|Otell\\Otell.csproj|solutionrelative:otell\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOdalar.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmOdalar.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmOdalar.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmOdalar.cs",
+              "RelativeToolTip": "Otell\\FrmOdalar.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAALUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:42:00.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMusteriler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmMusteriler.Designer.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmMusteriler.Designer.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmMusteriler.Designer.cs",
+              "RelativeToolTip": "Otell\\FrmMusteriler.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:39:11.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAdminGiris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAdminGiris.Designer.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmAdminGiris.Designer.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAdminGiris.Designer.cs",
+              "RelativeToolTip": "Otell\\FrmAdminGiris.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:38:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAnaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAnaForm.Designer.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmAnaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAnaForm.Designer.cs",
+              "RelativeToolTip": "Otell\\FrmAnaForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:38:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otell\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:19:32.271Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMusteriler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmMusteriler.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmMusteriler.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Otell\\Otell\\FrmMusteriler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Otell\\Otell\\FrmMusteriler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:52:00.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmYeniMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmYeniMusteri.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmYeniMusteri.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmYeniMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otell\\FrmYeniMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:35:00.867Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\Program.cs",
+              "RelativeDocumentMoniker": "Otell\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\Program.cs",
+              "RelativeToolTip": "Otell\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:30:06.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmOdalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmOdalar.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmOdalar.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmOdalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otell\\FrmOdalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:42:25.501Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAdminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Otell\\Otell\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Otell\\Otell\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:13:05.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMusteriler.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmMusteriler.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmMusteriler.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmMusteriler.cs",
+              "RelativeToolTip": "Otell\\FrmMusteriler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:04:06.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmYeniMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmYeniMusteri.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmYeniMusteri.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmYeniMusteri.cs",
+              "RelativeToolTip": "Otell\\FrmYeniMusteri.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwC8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:11:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAnaForm.cs",
+              "RelativeToolTip": "Otell\\FrmAnaForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:38:10.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "Otell\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\Otell\\Otell\\FrmAdminGiris.cs",
+              "RelativeToolTip": "Otell\\FrmAdminGiris.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:27:15.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
