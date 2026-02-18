@@ -4,7 +4,7 @@
 
 # \## 📌 Project Description
 
-# Hotel Automation System is a software project developed to manage hotel operations such as room reservations, check-in/check-out processes, and reporting.  
+# Hotel Automation System is a software project developed to manage hotel operations such as room reservations, check-in/check-out processes, and reporting.
 
 # 
 
@@ -51,4 +51,18 @@
 # 
 
 # ---
+
+# Username : admin
+
+# Password : 1234
+
+# 
+
+# ---
+
+# 
+
+# 
+
+# Hasan Hüseyin AKDAĞ \&\& Yunus DOLU
 
